@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class SpringbootFirstApplication {
 
 	public static void main(String[] args) {
+		System.out.println("sdgrrgsdff");
 		SpringApplication.run(SpringbootFirstApplication.class, args);
 	}
 
